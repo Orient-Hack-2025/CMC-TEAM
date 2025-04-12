@@ -1,0 +1,40 @@
+version: "3.8"
+
+services:
+  db:
+    container_name: mongo
+    image: mongo:latest
+    volumes:
+      - ./data:/data/db
+    ports:
+      - "27017:27017"
+
+  backend:
+    build: ./backend
+    container_name: backend
+    ports:
+      - "5002:5002"
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/hackathon
+      - PRIVATE_REFRESH_TOKEN=8b600a50c5fe71de966e1f5aa6c55727cdc91c1b095fbe3ba96b2a0c09eb5d1e6229c5f774a2af5b4bb4ba97f7780060b113012787cbf3f930b0ba8a0084cecb
+      - PRIVATE_ACCESS_TOKEN=8b600a50c5fe71de966e1f5aa6c55727cdc91c1b095fbe3ba96b2a0c09eb5d1e6229c5f774a2af5b4bb4ba97f7780060b113012787cbf3f930b0ba8a0084cecb
+      - PORT=5002
+    command: npm run dev
+    depends_on:
+      - db
+
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    command: npm run dev
+    depends_on:
+      - db
+      - backend
