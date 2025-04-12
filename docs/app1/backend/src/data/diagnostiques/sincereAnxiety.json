@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Q1",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "نومي مضطرب ومتقطع.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q2",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "مخاوفي كبيرة جدا بالقابلة بأصدقائي.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q3",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "تمر علي أبام لا أنم بسبب القلق.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q4",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أمتقد أنني أكثر عصيلة من الأخرين.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q5",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أعاني كل مدة البل بن كوابيس بزجمة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q6",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أعاني من الأمور بلغدة في كثير من الأحيان.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q7",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "طالبا ما الحمل أن يدأو بتشملن مساء اليوم في حمل.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q8",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أعاني كبيرًا من الأسبال.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q9",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أضمر بالراحة أثناء التفكير في أمور العمل والبال(م).",
+    "options": [
+      { "value": 0, "text": "نعم" },
+      { "value": 1, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q10",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "سيبوي نورات من العامل.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q11",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أحتى أن يحمر وجهي جهاد.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q12",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "دائما أضمر بالحوق.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q13",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أصبح كذلك باللغة ثانية في اللغة بالنفس (م).",
+    "options": [
+      { "value": 0, "text": "نعم" },
+      { "value": 1, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q14",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "آتعب بسيولة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q15",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "الانتخلال يحملي صحيح جدا.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q16",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "كبيرًا ما أضمر بالدورة لدرجة أجهزة عن النوم.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q17",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "عامة لأخرى هادئا، وفي نهم يستغيير.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q18",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "تمر بي فترة من الدورة لا استطع الجارس طوالاً.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q19",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أنا صيديو أو نفس الأوقاف",
+    "options": [
+      { "value": 0, "text": "نعم" },
+      { "value": 1, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q20",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "من الصعب على جدا الفيكور أثناء أداء العمل.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q21",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "دائما أضمر بالقلق دون جزر.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q22",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "عندما أضاهما مشاجرة أحد منها.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q23",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أضمن أن أكون حميدًا مثل الأخرين.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q24",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "دائما ينظيم شعور بالقلق على أشياء طاعمة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q25",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أضمر بأن عدم القاعدة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q26",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "كثيرا ما أشعر بأن سوء أنفس من الحسين والمحجر.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q27",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أعرفه كثيرا بسهولة حتى في الأيام الباردة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q28",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "الجهاز بالنسبة في مساعدة دائمة (٢).",
+    "options": [
+      { "value": 0, "text": "نعم" },
+      { "value": 1, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q29",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أن يتم تناول دائماً لخالف من الحيوان.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q30",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أن يلاحظه أشعر بالحيوان من نفسه.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q31",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "كثيرا ما أشعر أن يلي يحقق بسرعة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q32",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أكي بسهولة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q33",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "حقيبة أضيفية وأنمخاض لا يمكنهم بأدائي.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q34",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "انثير كبيرا بالخدمات.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q35",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أعاني كثيرا من الصناع.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q36",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أشعر بالغلق في أمور وأضيفة لا تهدفها.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q37",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "استطيع العالم بواجباتك للدرسة جديدة ومع كثيرا؟",
+    "options": [
+      { "value": 0, "text": "نعم" },
+      { "value": 1, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q38",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "من السيد جدا أرتباه ولقطة له أعلى في أرتباه بسهولة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q39",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أشعر بأن عديم القاعدة، أعتقد أحباباً إلى لا أصابع مبارزة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q40",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أن تمتضي متوفر جدا.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q41",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "عندما أرتباه أحباباً أشهر وسقط العرق مع بسهولة صافي.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q42",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "لا أشعر بالحيوان عندما تعمد إلى الآخرين؟",
+    "options": [
+      { "value": 0, "text": "نعم" },
+      { "value": 1, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q43",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "أن حساب أكثر من الآخرين.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q44",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "يرجى أي أقراف خصيلة أو أسقطع الغالب عليها.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q45",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "استطيع أن أحد مثلا لا تحسين المتفكل.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q46",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "إبداع وقضاي وإختارة والعلاقة.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q47",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "طالباً ما أحلم مجاحات من الأفضل إلا أشهر أحد بها.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q48",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "تنتجني اللغة بالنفس.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q49",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "قليل ما يحصل إلى إنسانات تصنيفي.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  },
+  {
+    "name": "Q50",
+    "diagnostique": "67f92069952adef0016ae3f4",
+    "question": "يحمر وجهي من الفجل.",
+    "options": [
+      { "value": 1, "text": "نعم" },
+      { "value": 0, "text": "لا" }
+    ]
+  }
+]

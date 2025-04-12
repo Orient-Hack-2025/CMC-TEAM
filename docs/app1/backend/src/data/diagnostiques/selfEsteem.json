@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Q1",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": " . أسرتي فخورة بي",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q2",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "أجد إهمال من الأسرة في المنزل.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q3",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "لدى أسرتي إحساس بأنه يمكن الاعتماد عليها.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q4",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "والدي يتخليان عني.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q5",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "تحاول أسرتي فهم وجهة نظري في الأعمال التي أقوم بها.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q6",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "تتوقع مني أسرتي الكثير.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q7",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "أنا شخص مهم داخل أسرتي.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q8",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "أحس بأنني شخص غير مرغوب فيه في المنزل.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q9",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "أسرتي تعتقد بأنني سأكون شخصًا ناجحًا في المستقبل.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q10",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات العائلي",
+    "question": "تمنيت لو كنت ولدت في أسرة غير أسرتي.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q11",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات املدرسي",
+    "question": "الأساتذة يتوقعون مني الكثير في الدراسة.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q12",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "أنا جيد في إنجاز الأشياء مثل الآخرين.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q13",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "أشعر بأنني عديم الفائدة في المدرسة.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q14",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "أنا فخور بنتائجي مقارنة بزملائي.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q15",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "تشكل المدرسة صعوبة للمقارنة مع زملائي.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q16",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "الأساتذة يسعدون عند قيامي بواجبي.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q17",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "معظم الأساتذة لا يفهمونني.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q18",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "أنا شخص مهم في القسم.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q19",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "مهما بذلت من جهد فإنني لا أحصل على النتائج التي أستحقها.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q20",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات المدرسي",
+    "question": "أشعر بأنني محروم من حظوظ الأساتذة الذين درسوني منذ التحاقي بالمدرسة إلى الآن.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q21",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "لدي أصدقاء كثيرون في سني.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q22",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "لست محبوبا مثل أقراني.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q23",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "ليست لدي علاقات كثيرة مثل أقراني.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q24",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "الأشخاص الذين هم في مثل سني غالبا ما يضايقونني.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q25",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "بعض الأصدقاء يعتقدون أنني أمرح كثيرًا أو أنني من الممتع أن أكون معهم.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q26",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "عادةً ما أتجنب زملائي لأنني لا أريد أن أكون مثلهم.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q27",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "يتمنى أشخاص آخرون لو كانوا مثلي.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q28",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "أتمنى لو كنت شخصاً مختلفاً حتى يكون عندي أصدقاء كثيرون.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q29",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "لو أن أصدقائي قرروا التصويت لإقادة المجموعة فسوف ينتخبونني ضمن المراكز القيادية العليا.",
+    "options": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" }
+    ]
+  },
+  {
+    "name": "Q30",
+    "diagnostique": "SELF-ESTEEM",
+    "axis": "تقدير الذات الرفاقي",
+    "question": "عندما يكون هناك مشكلة، فلست الشخص الذي يلجأ إليه الزملاء للمساعدة.",
+    "options": [
+      { "value": 5, "text": "1" },
+      { "value": 4, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 2, "text": "4" },
+      { "value": 1, "text": "5" }
+    ]
+  }
+]
